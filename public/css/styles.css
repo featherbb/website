@@ -292,6 +292,31 @@ pre code {
   margin-right: 5px;
   color: #fff;
 }
+/* ======= requirements Section ======= */
+.requirements {
+  padding: 80px 0;
+  background: #17baef;
+  color: #fff;
+}
+.requirements .title {
+  color: #074f66;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+.requirements a {
+  color: #074f66;
+}
+.requirements a:hover {
+  color: #042a36;
+}
+.requirements .feature-list li {
+  margin-bottom: 10px;
+  color: #074f66;
+}
+.requirements .feature-list li .fa {
+  margin-right: 5px;
+  color: #fff;
+}
 /* ======= Docs Section ======= */
 .docs {
   padding: 80px 0;
