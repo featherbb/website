@@ -22,10 +22,10 @@ h5,
 h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color: #17baef;
+  color: #03a9f4;
 }
 a {
-  color: #17baef;
+  color: #03a9f4;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -93,7 +93,7 @@ pre code {
 /* ======= Header ======= */
 .header {
   padding: 10px 0;
-  background: #17baef;
+  background: #03a9f4;
   color: #fff;
   position: fixed;
   width: 100%;
@@ -106,7 +106,7 @@ pre code {
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
 }
 .header.navbar-fixed-top .logo a {
-  color: #17baef;
+  color: #03a9f4;
 }
 .header.navbar-fixed-top .main-nav .nav .nav-item a {
   color: #666666;
@@ -149,7 +149,7 @@ pre code {
   font-family: 'Montserrat', sans-serif;
 }
 .header .main-nav .nav .nav-item.active a {
-  color: #17baef;
+  color: #03a9f4;
   background: none;
 }
 .header .main-nav .nav .nav-item a {
@@ -174,14 +174,14 @@ pre code {
   background: none;
 }
 .header .main-nav .nav .nav-item.active {
-  color: #17baef;
+  color: #03a9f4;
 }
 .header .main-nav .nav .nav-item.last {
   margin-right: 0;
 }
 /* ======= Promo Section ======= */
 .promo {
-  background: #17baef;
+  background: #03a9f4;
   color: #fff;
   padding-top: 150px;
 }
@@ -270,7 +270,7 @@ pre code {
 /* ======= Requirements Section ======= */
 .requirements {
   padding: 80px 0;
-  background: #17baef;
+  background: #03a9f4;
   color: #fff;
 }
 .requirements .title {
@@ -413,7 +413,7 @@ pre code {
 /* ======= Contact Section ======= */
 .contact {
   padding: 80px 0;
-  background: #17baef;
+  background: #03a9f4;
   color: #fff;
 }
 .contact .contact-inner {
