@@ -74,12 +74,6 @@ a.btn-cta-secondary, .btn-cta-secondary {
   font-weight: 600;
   text-transform: uppercase;
 }
-a.btn-cta-secondary:hover,
-.btn-cta-secondary:hover {
-  background: #ecb728;
-  border: 1px solid #ecb728;
-  color: #fff;
-}
 .text-highlight {
   color: #074f66;
 }
