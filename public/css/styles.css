@@ -69,8 +69,8 @@ a.btn-cta-primary:hover,
 }
 a.btn-cta-secondary,
 .btn-cta-secondary {
-  background: #eebf3f;
-  border: 1px solid #eebf3f;
+  background: #111;
+  border: 1px solid #111;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
@@ -191,7 +191,7 @@ pre code {
   margin-top: 0;
 }
 .promo .title .highlight {
-  color: #eebf3f;
+  color: #111;
 }
 .promo .intro {
   font-size: 28px;
