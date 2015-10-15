@@ -70,6 +70,9 @@ a.btn-cta-primary:hover,
 a.btn-cta-secondary, .btn-cta-secondary {
   background: #72d1fa;
   border: 1px solid #41c2fa;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 a.btn-cta-secondary:hover,
 .btn-cta-secondary:hover {
