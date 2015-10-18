@@ -1,8 +1,9 @@
-devAid theme from Xiaoying Riley, adopted to Jekyll
+# FeatherBB Website
 
-early stage, pls open issue if you need any updates
+[![Join the chat at https://gitter.im/featherbb/featherbb](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/featherbb/featherbb?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[Download](https://github.com/kevit/devaid-jekyll-theme/blob/master/archive.tar.bz2).
+## About
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kevit/devaid-jekyll-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+This is the source-code of FeatherBB.org. Every push will be Feel free to contribute!
 
+Inspired from devAid theme from Xiaoying Riley
