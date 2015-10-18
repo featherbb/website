@@ -4,6 +4,6 @@
 
 ## About
 
-This is the source-code of FeatherBB.org. Every push will be Feel free to contribute!
+This is the source-code of FeatherBB.org. Feel free to contribute!
 
 Inspired from devAid theme from Xiaoying Riley
