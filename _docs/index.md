@@ -16,3 +16,9 @@ FeatherBB is a blabla
 ## Core Team
 
 ...
+
+## Code test
+
+```php
+ini_set('display_errors', 'On');
+```
