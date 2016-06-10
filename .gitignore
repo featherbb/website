@@ -1,7 +1,7 @@
 _site
 
 #jekyll installation
-_config.yml
+#_config.yml
 _posts/
 _sass/
 about.md
