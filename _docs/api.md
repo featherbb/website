@@ -144,6 +144,8 @@ Of course, the req_subject parameter should be submitted only if the user has th
 
 Display an user.
 
+Regular view:
+
 ```
 GET /api/user/:id
 {
@@ -158,6 +160,31 @@ GET /api/user/:id
     "num_posts": "9",
     "last_post": "1465405242",
     "registered": "1465404187",
+    "g_id": "1",
+    "g_user_title": "Administrator",
+}
+```
+
+Administrator view:
+
+```
+GET /api/user/:id
+{
+    "id": "2",
+    "group_id": "1",
+    "username": "test",
+    "email": "test@test.com",
+    "title": null,
+    "realname": null,
+    "url": null,
+    "location": null,
+    "signature": null,
+    "num_posts": "9",
+    "last_post": "1465405242",
+    "registered": "1465404187",
+    "registration_ip": "::1",
+    "admin_note": null,
+    "last_visit": "1465666725",
     "g_id": "1",
     "g_user_title": "Administrator",
     "prefs": {
