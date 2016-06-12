@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Update
-permalink: /docs/Update/
+permalink: /docs/update/
 ---
 
 Updating FeatherBB is very simple.
