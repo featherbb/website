@@ -53,6 +53,12 @@ For Lighttpd, add the following line:
 url.rewrite-if-not-file = ("(.*)" => "/index.php/$0")
 ```
 
+If you use PHP >= 7, make sure the php7.0-xml is installed by running
+
+```bash
+sudo apt-get install php7.0-xml
+```
+
 If you have any trouble setting up your server, you can refer to [Slim Framework's documentation](http://www.slimframework.com/docs/start/web-servers.html).
 
 ## Core Team
