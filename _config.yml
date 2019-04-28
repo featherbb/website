@@ -2,8 +2,8 @@ markdown: kramdown
 title: FeatherBB
 email: admin@featherbb.org
 description: "A simple and lightweight new generation forum system."
-baseurl: "http://featherbb.org"
-url: "http://featherbb.org"
+baseurl: "https://featherbb.org"
+url: "https://featherbb.org"
 twitter_username: FeatherBB_forum
 kramdown:
   input: GFM
