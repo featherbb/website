@@ -44,7 +44,14 @@ To enable URL rewriting, make sure that mod_rewrite is enabled for Apache, or ad
 ```bash
 location / {
         try_files $uri $uri/ /index.php$is_args$args;
-    }
+}
+```
+
+Do not forget to make the .env unreadable:
+```bash
+location ~ /\.env {
+        deny  all;
+}
 ```
 
 For Lighttpd, add the following line:
